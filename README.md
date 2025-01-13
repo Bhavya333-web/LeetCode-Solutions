@@ -10,11 +10,13 @@
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -24,6 +26,7 @@
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
 | ------- |
