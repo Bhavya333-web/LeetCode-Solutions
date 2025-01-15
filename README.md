@@ -39,4 +39,16 @@
 | ------- |
 | [2509-minimize-xor](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
