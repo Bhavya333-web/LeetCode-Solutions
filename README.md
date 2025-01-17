@@ -7,6 +7,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | ------- |
 | [2509-minimize-xor](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 ## Linked List
 |  |
 | ------- |
