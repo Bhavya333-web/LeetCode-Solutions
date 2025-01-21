@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -76,9 +77,14 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Shortest Path
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Prefix Sum
+|  |
+| ------- |
+| [2145-grid-game](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2145-grid-game) |
 <!---LeetCode Topics End-->
