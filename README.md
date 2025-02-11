@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -48,6 +49,7 @@
 ## Stack
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Bit Manipulation
@@ -148,5 +150,6 @@
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
