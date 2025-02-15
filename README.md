@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -156,4 +157,8 @@
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3447-clear-digits) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
