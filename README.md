@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -172,4 +173,8 @@
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
