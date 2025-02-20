@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0217-contains-duplicate](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -23,6 +24,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1160-letter-tile-possibilities](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2434-design-a-number-container-system](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
@@ -147,6 +149,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Design
