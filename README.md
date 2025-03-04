@@ -7,6 +7,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0162-find-peak-element](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -127,6 +128,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -185,6 +187,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
