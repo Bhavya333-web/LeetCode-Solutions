@@ -15,6 +15,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1677-matrix-diagonal-sum](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -133,6 +134,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1677-matrix-diagonal-sum](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1876-map-of-highest-peak](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
