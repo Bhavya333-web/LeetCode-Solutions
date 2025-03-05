@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -228,6 +230,7 @@
 |  |
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1013-fibonacci-number](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 ## Two Pointers
 |  |
@@ -235,4 +238,8 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
