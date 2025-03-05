@@ -91,6 +91,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
 |  |
