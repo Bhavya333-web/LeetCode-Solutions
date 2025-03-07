@@ -95,6 +95,7 @@
 | [0002-add-two-numbers](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -246,4 +247,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
