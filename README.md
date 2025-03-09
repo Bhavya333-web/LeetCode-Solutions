@@ -32,6 +32,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3483-alternating-groups-ii](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -257,4 +258,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3483-alternating-groups-ii](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
