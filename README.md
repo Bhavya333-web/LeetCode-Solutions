@@ -87,6 +87,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [2509-minimize-xor](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -219,9 +220,11 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -229,6 +232,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
