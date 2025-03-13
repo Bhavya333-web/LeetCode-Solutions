@@ -33,6 +33,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-alternating-groups-ii](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2145-grid-game) |
+| [3643-zero-array-transformation-ii](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [3643-zero-array-transformation-ii](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Tree
 |  |
 | ------- |
