@@ -22,6 +22,7 @@
 | [2145-grid-game](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2145-grid-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [2478-longest-nice-subarray](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -272,6 +274,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2478-longest-nice-subarray](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->
