@@ -20,6 +20,7 @@
 | [1876-map-of-highest-peak](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2145-grid-game) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
@@ -47,6 +48,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2434-design-a-number-container-system](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -66,6 +68,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -136,6 +139,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Heap (Priority Queue)
@@ -191,6 +195,7 @@
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Bhavya333-web/LeetCode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Sorting
 |  |
